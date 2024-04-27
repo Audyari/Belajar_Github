@@ -1,0 +1,11 @@
+1. Setup Pertama : 
+    - $ git config --global user.name "Audyari Wiyono"
+    - $ git config --global user.email audy123ari@gmail.com
+    - untuk Cek nya ( $ git config --global --list )
+2. Setup Kedua :
+    - git init 
+    - git status
+    - git add . (Atau Bisa Juga Git add _Nama_File_Nya)
+    - git commit -m "Repository dan Menambahkan File"
+
+======================================================================
