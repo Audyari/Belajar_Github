@@ -37,3 +37,7 @@ Git Reset dan Git Restore Staged
 
 ==========================================
 
+Kembali ke Commit Sebelumnya dengan Git Reset
+
+1. git reset --hard (no Hash nya )
+
