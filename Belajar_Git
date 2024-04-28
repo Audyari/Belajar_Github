@@ -41,3 +41,19 @@ Kembali ke Commit Sebelumnya dengan Git Reset
 
 1. git reset --hard (no Hash nya )
 
+===========================================
+
+Branch dan Merge
+1. git checkout -b Nama_Fitur_nya
+2. git commit -m "nama FItur nya"
+3. git checkout master
+4. git merge Nama_fitur_nya
+
+5. Buat tau ada nama checkout apa aja ?
+    $ git branch
+      Branch
+      master
+      * merge
+6. Buat Ngapus branch : git branch -d nama_file_nya
+=========================================
+
