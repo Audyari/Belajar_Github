@@ -30,4 +30,10 @@ Membatalkan Perubahan dengan Git Restore
 
 
 ============================================
+Git Reset dan Git Restore Staged
+
+1. git reset
+2. git restore -S nama_filenya
+
+==========================================
 
