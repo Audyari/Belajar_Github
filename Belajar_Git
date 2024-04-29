@@ -77,6 +77,12 @@ Memulai dan Membuat Repository di Github
     git remote add origin https://github.com/Audyari/testing.git
     git push -u origin main
 
+==========================================
+
+Git Clone dan Git Push
+
+1. git clone git@github.com:Audyari/testing.git ( ssh gitgub nya )
+2. git push origin master ( klo gk main )
 
 
 
