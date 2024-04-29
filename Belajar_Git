@@ -84,5 +84,12 @@ Git Clone dan Git Push
 1. git clone git@github.com:Audyari/testing.git ( ssh gitgub nya )
 2. git push origin master ( klo gk main )
 
+==========================================
 
+Github Pull Request
+
+1.  git checkout -b Nama_Fitur_nya
+2.  git push -u origin Nama_Fitur_nya
+3.  git checkout -b master
+4.  git pull original master 
 
