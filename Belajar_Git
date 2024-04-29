@@ -57,3 +57,8 @@ Branch dan Merge
 6. Buat Ngapus branch : git branch -d nama_file_nya
 =========================================
 
+Merevisi Commit dengan Git Revert
+
+1. git log --oneline
+2. git revert hast_number
+
