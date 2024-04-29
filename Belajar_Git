@@ -62,3 +62,21 @@ Merevisi Commit dengan Git Revert
 1. git log --oneline
 2. git revert hast_number
 
+=======================================
+
+Memulai dan Membuat Repository di Github
+
+1. masuk ke menu seting buat masuk ke "SSH keys"
+    - ssh-keygen -t ed25519 -C "your_email@example.com"
+
+2. echo "# testing" >> README.md
+    git init ( Penting )
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main (ini pake branch main,,, kalo setup kita master)
+    git remote add origin https://github.com/Audyari/testing.git
+    git push -u origin main
+
+
+
+
