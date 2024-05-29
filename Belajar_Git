@@ -93,3 +93,19 @@ Github Pull Request
 3.  git checkout -b master
 4.  git pull original master 
 
+
+================================
+
+tambahan : 
+
+git remote -v
+
+git commit -m "Repository dan Menambahkan File"
+
+git log --oneline
+
+git push origin master ( klo gk main )
+
+============================================
+
+
